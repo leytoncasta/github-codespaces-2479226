@@ -19,3 +19,12 @@ Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learn
 
 [lil-course-url]: https://www.linkedin.com/learning/learning-github-codespaces?dApp=59033956
 [lil-thumbnail-url]: https://cdn.lynda.com/course/2479226/2479226-1666201818538-16x9.jpg
+
+# A simple NodeJs API
+
+## Running the Application
+
+[![Open in GitHub codespace](https://github.com/codespaces/badge.svg)](https://codespaces.new/[leytoncasta]/[github-codespaces-2479226])
+
+1. Run 'npm install'
+2. Run 'node server'
