@@ -24,7 +24,7 @@ Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learn
 
 ## Running the Application
 
-[![Open in GitHub codespace](https://github.com/codespaces/badge.svg)](https://codespaces.new/[leytoncasta]/[github-codespaces-2479226])
+[![Open in GitHub codespace](https://github.com/codespaces/badge.svg)](https://codespaces.new/leytoncasta/github-codespaces-2479226)
 
 1. Run 'npm install'
 2. Run 'node server'
